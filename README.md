@@ -15,7 +15,3 @@ Aquest repositori conté els exemples de codi corresponents al tema 2 de l'assig
     * `fifo`.
     * `queue`.
     * `shared_memory`.
-
-
-
-    * **exec**: Conté tots els exempjsons de substitució de codi.
